@@ -121,7 +121,7 @@ you will then have to copy all files from your project directory into this one. 
 To be able to push you will need to set your token in the git remote setup
 
 ```bash
-git remote set-url origin https://RJuro:XXXXXX@huggingface.co/spaces/RJuro/cheese-doc-test
+git remote set-url origin https://USENAME:XXXXXX@huggingface.co/spaces/USER/REPO-ID
 ```
 
 You will need to edit the dockerfile to include the together api key at build time. First add it to the secrets in the HF space. 

@@ -13,6 +13,10 @@ Applied LLM workshop material
 | 🔧 LLM Finetuning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RJuro/RPAI2024/blob/main/05_LLMfinetune_phi3.ipynb) |
 
 
+### 🚀 GenAI App Deployment with Langserve
+
+📘 [Tutorial](https://github.com/RJuro/RPAI2024/deploy-langchain-app.md)
+🗂️ [HF Repository](https://huggingface.co/spaces/RJuro/RPAI2024-bot/tree/main)
 
 
 ### Links & Cool Material for Building AI Applications
