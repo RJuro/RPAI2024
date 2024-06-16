@@ -16,7 +16,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/rjurowetzki/)
 
 ### 🚀 GenAI App Deployment with Langserve
 
-📘 [Tutorial](https://github.com/RJuro/RPAI2024/deploy-langchain-app.md)
+📘 [Tutorial](https://github.com/RJuro/RPAI2024/blob/main/deploy-langchain-app.md)
 🗂️ [HF Repository](https://huggingface.co/spaces/RJuro/RPAI2024-bot/tree/main)
 
 
