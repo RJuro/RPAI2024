@@ -1,6 +1,7 @@
 # RPAI2024
 
-Applied LLM workshop material
+Applied LLM workshop material.
+Find me on [LinkedIn](https://www.linkedin.com/in/rjurowetzki/)
 
 
 | Title | Open in Colab |
