@@ -154,3 +154,15 @@ rag_app = RemoteRunnable("https://rjuro-rpai2024-bot.hf.space/pirate-speak/") # 
 result = rag_app.invoke({"text": "Hej Mads, hvad så, skal du have en ny bil?", "chat_history": []})
 print(result)
 ```
+
+### Running the same with a local model:
+
+you can easily swap out the together.ai model for a local one:
+
+```python
+from langchain_community.llms import Ollama
+
+_model = Ollama(
+    model="llama3"
+)
+```
